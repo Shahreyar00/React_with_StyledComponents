@@ -1,4 +1,4 @@
-Working link for this mock UI: react-styled-mockui.netlify.app
+Working link for this mock UI: https://react-styled-mockui.netlify.app/
 
 # Getting Started with Create React App
 
